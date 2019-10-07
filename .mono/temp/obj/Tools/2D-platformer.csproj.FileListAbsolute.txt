@@ -1,0 +1,6 @@
+C:\Users\vilho\Documents\Godot\Projects\2D-platformer\.mono\temp\bin\Tools\2D-platformer.dll
+C:\Users\vilho\Documents\Godot\Projects\2D-platformer\.mono\temp\bin\Tools\2D-platformer.pdb
+C:\Users\vilho\Documents\Godot\Projects\2D-platformer\.mono\temp\obj\Tools\2D-platformer.csprojAssemblyReference.cache
+C:\Users\vilho\Documents\Godot\Projects\2D-platformer\.mono\temp\obj\Tools\2D-platformer.csproj.CoreCompileInputs.cache
+C:\Users\vilho\Documents\Godot\Projects\2D-platformer\.mono\temp\obj\Tools\2D-platformer.dll
+C:\Users\vilho\Documents\Godot\Projects\2D-platformer\.mono\temp\obj\Tools\2D-platformer.pdb

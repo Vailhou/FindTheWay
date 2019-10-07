@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://GroundOneStatic.gd" type="Script" id=1]
+[ext_resource path="res://Images/Ground/ground1.png" type="Texture" id=2]
+[ext_resource path="res://Sounds/Sound_Effects/LudumDareGameJam2019BlockReaveal.wav" type="AudioStream" id=3]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 32, 16 )
+
+[node name="GroundOneStatic" type="StaticBody2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+margin_left = -34.0
+margin_top = -34.0
+margin_right = 34.0
+margin_bottom = 2.0
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 0.0134506, -16 )
+shape = SubResource( 1 )
+
+[node name="BlockReveal" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )

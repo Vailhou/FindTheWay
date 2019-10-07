@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/LudumDareGameJam2019Jump.ogg-b11d7877c607ac7754c58f3fb028be79.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Sound_Effects/LudumDareGameJam2019Jump.ogg"
+dest_files=[ "res://.import/LudumDareGameJam2019Jump.ogg-b11d7877c607ac7754c58f3fb028be79.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
